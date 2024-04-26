@@ -1,0 +1,4 @@
+name: SMP
+version: '${project.version}'
+main: io.github.pinont.smp.Core
+api-version: '1.20'
